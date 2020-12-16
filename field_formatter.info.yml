@@ -1,0 +1,7 @@
+name: Field_Formatter
+type: module
+description: A Custom Field Created Programactly.
+core: 8.x
+package: Field types
+dependencies:
+  - field

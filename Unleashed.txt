@@ -1,0 +1,24 @@
+pkalavadia@unleashed-technologies.com
+Con@rbon11
+access-pkalavadia@unleashed-technologies.com
+https://unleashed.teamwork.com/
+https://gitlab.utdev.com/
+https://outlook.office.com/mail/inbox/id/AAQkADFlNTg2YWQwLTUzYjAtNDY5Ni1hNGFiLTY3YjZmOWJiNjM1ZAAQAECJSWBf3d1MsK%2FoZVeCWr0%3D
+https://lastpass.com/?ac=1&lpnorefresh=1
+https://app.slack.com/client/T073BJ8RH/D01D4E2J03Y
+
+sudo openconnect https://remote.unleashed-technologies.com -v -u pkalavadia --authgroup=WEBVPN
+
+
+oCvfaLdzLePPVjVqU7fSfWRL9F5JX3Db6Q25LWPXVZUIygKz8Wg3gQ8GIaB
+composer drupal.db.pull
+
+admin/config/services/am_net_cpe/events/sync
+
+Workspace URL: unleashedtechnologies.slack.com
+Email: pkalavadia@unleashed-technologies.com
+
+vscpa project admin login
+==========================
+Email: developers@unleashed-technologies.com
+Pass: KnYxsjnCS6Vifsrv

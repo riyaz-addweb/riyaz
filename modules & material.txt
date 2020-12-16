@@ -1,0 +1,38 @@
+*-> feeds:- enter bulk data with csv file .. import export
+*-> services:- create services and get plain text for app development
+*-> colorbox/fancybox/modal:- image box 
+*-> sliders (carousel/owl):- image sliders 
+*-> isotope :- filter block such as grid view (D7)
+*-> views load more (view infinit scroll) :- pager for load more content {{View Laod Show In D8 }}
+*-> search API/ search facets/solr :- search content from website and create filter for data like shopping site
+*-> social login (hybrid authentication (D7)) :- social sharing and login with social accounts
+*-> rules :-do action on perticular event
+*-> body classes/block class : add class to body and perticular block for designing of block
+*-> inline entity form : multiple field in single field .. like ecommorce product with different size 
+*-> panels/mini panels : for customize region and create custom page design
+*-> media :- multimedia file upload field in content type
+*-> media youtube/ media vimeo :- create media to show youtube and vimeo video in page
+*-> video embed field :- create field to show video with url 
+*-> news letter(simple newsletter):- create newslatter 
+*-> voting API/five star:- rating for contents
+*-> metatags/sitemap:- for search engine optimization meta tag on content
+*-> google analytics:- used for get analytics report of website traffic from google.
+*-> captcha/recaptcha/imagecaptcha:- security captcha during login register form 
+*-> advance aggregator:- improve site performance.
+*-> autocomplete deluxe:- better autocomplete select for multiple options.
+*-> better exposed filter:- taxonomy field into selectbox and rediobutton during filtering 
+*-> chosen:- chosen single or multiple from select
+*-> clint side validation:- automatic add jquery for client side validation
+*-> conditional fields :- sets dependencies on two fields 
+-> css-injector:-
+-> entity reference:- use for relationships between two field of different content type
+-> field group:- group fields for batter content entry
+-> hierachical select:- multiple selectbox dependent with each other like country and state.
+-> login to boggan :- gives batter ui and functionality of user login module.
+-> multiblock:- create multiple block clone. 
+-> node clone:- edit of clone and create copy of clone. 
+-> path auto:- url rewriting and give pattern to url. 
+-> profile 2:- create profile of user and add additional information.
+-> string override:-replace string of whole website with given string 
+-> taxonomy manager:-
+
